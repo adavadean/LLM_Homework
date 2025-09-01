@@ -43,8 +43,10 @@ npm install
 npm run dev
 Access the frontend at: http://localhost:5173
 
-Required .env file (backend)
+```markdown
+Required .env file (backend):
 
+```env
 OPENAI_API_KEY=sk-your-api-key-here
 CHAT_MODEL=gpt-4o
 EMBEDDING_MODEL=text-embedding-3-small
