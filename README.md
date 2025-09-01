@@ -43,7 +43,6 @@ npm install
 npm run dev
 Access the frontend at: http://localhost:5173
 
-```markdown
 Required .env file (backend):
 
 ```env
