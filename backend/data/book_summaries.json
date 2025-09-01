@@ -1,0 +1,122 @@
+[
+  {
+    "title": "1984",
+    "short_summary": "Distopie despre supraveghere totală și control social. Winston Smith se revoltă împotriva regimului.",
+    "full_summary": "„1984” de George Orwell prezintă o lume în care statul controlează adevărul, limbajul și chiar gândurile. Big Brother supraveghează constant, iar istoria este rescrisă. Winston Smith încearcă să reziste manipulării și să păstreze o fărâmă de libertate individuală. Romanul explorează teme precum propaganda, autocenzura și eroziunea realității obiective.",
+    "tags": [
+      "distopie",
+      "control social",
+      "politica"
+    ]
+  },
+  {
+    "title": "The Hobbit",
+    "short_summary": "Aventura lui Bilbo Baggins alături de pitici pentru a-și recăpăta comoara de la dragonul Smaug.",
+    "full_summary": "Bilbo Baggins, un hobbit comod, este antrenat de vrăjitorul Gandalf într-o misiune alături de treisprezece pitici conduși de Thorin. Deși la început reticent, Bilbo își descoperă curajul și ingeniozitatea, furând cupa dragonului Smaug și devenind „hoțul” grupului. Cartea surprinde prietenia, maturizarea și sensul aventurii.",
+    "tags": [
+      "fantasy",
+      "aventură",
+      "prieteni"
+    ]
+  },
+  {
+    "title": "Dune",
+    "short_summary": "Paul Atreides ajunge pe deșertica Arrakis, unde se joacă puterea pentru prețiosul melanj.",
+    "full_summary": "„Dune” este o epopee science‑fiction despre ecologie, religie și putere. Familia Atreides preia controlul planetei Arrakis, singura sursă de melanj (spice). Trădat, Paul supraviețuiește în rândul fremenilor și devine liderul lor mesianic. Romanul examinează riscurile mitului salvator și dinamica imperială.",
+    "tags": [
+      "sf",
+      "politică",
+      "ecologie"
+    ]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "short_summary": "Copilăria lui Scout și Jem într-un orășel din sudul SUA, pe fundalul unui proces rasial.",
+    "full_summary": "Harper Lee urmărește maturizarea copiilor lui Atticus Finch, avocat care apără un bărbat de culoare acuzat pe nedrept. Prin ochii lui Scout, cartea dezvăluie prejudecățile, dar și puterea empatiei și a dreptății. Un roman despre moralitate, curaj și compasiune.",
+    "tags": [
+      "clasic",
+      "dreptate",
+      "rasism"
+    ]
+  },
+  {
+    "title": "The Name of the Wind",
+    "short_summary": "Kvothe își povestește viața: copil genial, student la Universitate, muzician, arcanist.",
+    "full_summary": "Primul volum din seria „The Kingkiller Chronicle” prezintă ascensiunea lui Kvothe din copil de trupă la student la Universitate, obsedat de tainele numelui și de misterul Chandrian. Proza lirică, muzica și magia se împletesc în portretul unui erou imperfect într-o lume complexă.",
+    "tags": [
+      "fantasy",
+      "magie",
+      "bildungsroman"
+    ]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "short_summary": "Poveste romantică între Elizabeth Bennet și Mr. Darcy, despre prejudecăți și clasă socială.",
+    "full_summary": "Jane Austen explorează condiția femeii și dinamica socială prin ironie fină și dialog strălucitor. Elizabeth Bennet înfruntă mândria și prejudecățile, iar Mr. Darcy trebuie să-și învingă snobismul. Un roman despre luciditate, spirit și iubire.",
+    "tags": [
+      "clasic",
+      "romance",
+      "etichetă socială"
+    ]
+  },
+  {
+    "title": "War and Peace",
+    "short_summary": "Destine rusești în timpul războaielor napoleoniene; istorii personale pe fundal istoric vast.",
+    "full_summary": "Tolstoi îmbină saga familiei cu analiza profundă a istoriei. Prin Pierre, Andrej și Natașa, cititorul trăiește războiul, dragostea și transformarea morală. Romanul chestionează rolul individului în istorie și sensul fericirii.",
+    "tags": [
+      "clasic",
+      "istoric",
+      "epopee"
+    ]
+  },
+  {
+    "title": "The Book Thief",
+    "short_summary": "Moartea povestitoare urmărește viața lui Liesel în Germania nazistă; cărțile devin salvare.",
+    "full_summary": "Markus Zusak scrie o poveste emoționantă despre puterea cuvintelor. Liesel, fetița care fură cărți, se refugiază în lectură într-o lume plină de violență. Relația cu tatăl adoptiv și prietenia cu Rudy oferă lumină într-un timp întunecat.",
+    "tags": [
+      "istoric",
+      "al doilea război",
+      "emoție"
+    ]
+  },
+  {
+    "title": "The Kite Runner",
+    "short_summary": "Prietenia și trădarea dintre Amir și Hassan pe fundalul Afganistanului frământat.",
+    "full_summary": "Khaled Hosseini povestește despre vinovăție, iertare și identitate. După o trădare în copilărie, Amir trăiește cu rușinea ani întregi până când caută răscumpărare. Romanul explorează urmele traumelor personale și colective.",
+    "tags": [
+      "drama",
+      "prietenie",
+      "familie"
+    ]
+  },
+  {
+    "title": "The Alchemist",
+    "short_summary": "Santiago pleacă în căutarea „legendei personale”, într-o călătorie inițiatică.",
+    "full_summary": "Paulo Coelho scrie o parabolă despre ascultarea inimii și sincronicități. Întâlnirile lui Santiago îl ghidează spre sensul propriei vieți. Un roman motivațional despre visuri, semne și curaj.",
+    "tags": [
+      "parabolă",
+      "aventură",
+      "autocunoaștere"
+    ]
+  },
+  {
+    "title": "The Lord of the Rings",
+    "short_summary": "O călătorie epică pentru a distruge Inelul Puterii și a salva Pământul de Mijloc.",
+    "full_summary": "Trilogia lui Tolkien urmărește Frăția Inelului în lupta cu Sauron. Prietenia, sacrificiul și speranța se împletesc într-o mitologie vastă, unde cele mai mici ființe pot schimba destinul lumii.",
+    "tags": [
+      "fantasy",
+      "epic",
+      "prietenie"
+    ]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "short_summary": "Holden Caulfield relatează câteva zile de rătăcire prin New York, între cinism și vulnerabilitate.",
+    "full_summary": "Salinger surprinde vocea unică a unui adolescent care respinge „falsitatea” lumii adulte. Romanul e un studiu al alienării și nevoii de autenticitate, cu un limbaj care a marcat generații.",
+    "tags": [
+      "clasic",
+      "adolescență",
+      "autenticitate"
+    ]
+  }
+]
