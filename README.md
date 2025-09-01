@@ -24,8 +24,7 @@ This project implements an AI-powered book recommendation chatbot using OpenAI G
 - React + Vite
 - Web Speech API for TTS and STT
 
-## How to Run
-1. Backend (FastAPI)
+## 1. Backend (FastAPI)
 
 ```bash
 cd backend
@@ -33,16 +32,27 @@ python -m venv .venv
 .venv\Scripts\activate  
 pip install -r requirements.txt
 uvicorn app:app --reload --port 8000
+```
 
-2. Frontend (React)
+API will be available at: http://localhost:8000
+
+---
+
+## 2. Frontend (React)
 
 ```bash
 cd frontend
 npm install
 npm run dev
-Access the frontend at: http://localhost:5173
+```
 
-Required .env file (backend):
+Frontend runs at: http://localhost:5173
+
+---
+
+## 3. .env File (Backend Configuration)
+
+Create a file called `.env` inside the `backend/` folder with the following content:
 
 ```env
 OPENAI_API_KEY=sk-your-api-key-here
@@ -53,10 +63,18 @@ COLLECTION_NAME=book_summaries
 ENABLE_PROFANITY_FILTER=true
 TOP_K=3
 CORS_ALLOW_ORIGINS=["http://localhost:5173"]
+```
+---
 
-Example Prompts
+## 4. Example Prompts
 
+You can ask the chatbot:
+
+```
 I want a book about freedom and social control.
 What do you recommend if I love fantasy stories?
 What is the book "1984" about?
 Recommend me a story involving friendship and magic.
+```
+
+---
