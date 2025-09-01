@@ -25,8 +25,7 @@ This project implements an AI-powered book recommendation chatbot using OpenAI G
 - Web Speech API for TTS and STT
 
 ## How to Run
-
-### 1. Backend (FastAPI)
+1. Backend (FastAPI)
 
 ```bash
 cd backend
@@ -35,7 +34,7 @@ python -m venv .venv
 pip install -r requirements.txt
 uvicorn app:app --reload --port 8000
 
-### 2. Frontend (React)
+2. Frontend (React)
 
 ```bash
 cd frontend
